@@ -1,3 +1,3 @@
 # Calibration VI
 
-![](Circle Diameters.gif)
+![](CircleDiameters.gif)
